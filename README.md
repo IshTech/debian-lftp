@@ -1,4 +1,4 @@
-# alpine-lftp
+# debian-lftp
 LFTP tool based on Debian Linux Image
 
 ## Usage
